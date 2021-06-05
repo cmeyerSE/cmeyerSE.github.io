@@ -1,11 +1,11 @@
 # Site settings
 author: Cory Meyer
-title: 
+title: Self Paced Learner
 header-img: img/home-bg.png
 email: cameyer182@gmail.com
 copyright_name: Cory Meyer
 description: > # this means to ignore newlines until "baseurl:"
-  
+  How I Am Learning Code At My Own Pace
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cmeyerSE
